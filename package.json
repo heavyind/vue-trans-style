@@ -1,0 +1,23 @@
+{
+  "name": "@heavyind/vue-trans-style",
+  "version": "0.0.1",
+  "description": "A small collection of CSS styles intended to be used with @heavyind/vue-trans",
+  "main": "main.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heavyind/vue-trans-style.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex"
+  ],
+  "author": "Heavy Industries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heavyind/vue-trans-style/issues"
+  },
+  "homepage": "https://github.com/heavyind/vue-trans-style#readme"
+}
