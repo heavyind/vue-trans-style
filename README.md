@@ -2,4 +2,4 @@
 
 ## What it is
 
-A selection of styles designed to be used to `[@heavyind/vue-trans](https://github.com/heavyind/vue-trans)`.
+A selection of styles designed to be used with [@heavyind/vue-trans](https://github.com/heavyind/vue-trans).
